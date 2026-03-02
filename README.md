@@ -48,3 +48,6 @@ src/
 - Geolocation support
 - Dark / Light theme
 - Better error handling
+
+## Live Demo
+https://anastasiiaka-com.github.io/react-weather-app/
